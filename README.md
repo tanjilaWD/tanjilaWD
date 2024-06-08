@@ -5,7 +5,7 @@
 
 <h2>🔷🔶Skills:</h2>
 
-    ##💡JavaScript
+    💡JavaScript
     
     💡HTML
     
