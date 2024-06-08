@@ -5,7 +5,9 @@
 
 Skills:
     💡 JavaScript 
-    💡HTML 
+    
+    💡HTML
+    
     💡CSS
 
 - 🌱 I’m currently learning JavaScript 
