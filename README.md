@@ -10,7 +10,6 @@
     
     💡CSS
     
-    💡Wordpress
 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
