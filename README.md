@@ -4,6 +4,8 @@
 
 <h2>🔷🔶Skills:</h2>
 
+    💡React
+     
     💡PHP
     
     💡JavaScript
@@ -11,6 +13,7 @@
     💡HTML
     
     💡CSS
+    
     
 
 - 🌱 I’m currently learning JavaScript 
