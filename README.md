@@ -12,7 +12,7 @@
     
     💡HTML
     
-    💡CSS
+    💡CSS (Tailwind)
     
     
 
