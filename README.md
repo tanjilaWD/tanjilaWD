@@ -10,8 +10,6 @@
     
     💡JavaScript
     
-    💡HTML
-    
     💡CSS (Tailwind)
     
     
