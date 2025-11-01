@@ -26,3 +26,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tanjilaWD&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+### 🏛️ Khulna Mohila Polytechnic Institute
+**Diploma in Computer Engineering**  
+📍 Khulna, Bangladesh | 📅 2022 - 2025
