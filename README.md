@@ -8,9 +8,6 @@
 - 📫 How to reach me: tanjilabithi12@gmail.com
 - ⚡ Fun fact: 😵 NaN is actually a number.
 
- <img align="right" alt="Coding" width="300" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif"> 
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100057956989237) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/tanjila-khatun-9051b0328/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanjilabithi12@gmail.com) 
 
