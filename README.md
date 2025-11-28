@@ -8,8 +8,6 @@
 - 📫 How to reach me: tanjilabithi12@gmail.com
 - ⚡ Fun fact: 😵 NaN is actually a number.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tanjila&color=blue)
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100057956989237) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/tanjila-khatun-9051b0328/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanjilabithi12@gmail.com) 
 
